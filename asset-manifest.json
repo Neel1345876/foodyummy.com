@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodyummy1/static/css/main.d5476793.css",
+    "main.js": "/foodyummy1/static/js/main.f2cb72b1.js",
+    "static/media/product4.jpg": "/foodyummy1/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/foodyummy1/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/portfolio.jpg": "/foodyummy1/static/media/portfolio.37317f30bbee54e203b3.jpg",
+    "static/media/avatar1.jpeg": "/foodyummy1/static/media/avatar1.d37df0395195993244c9.jpeg",
+    "static/media/hero.jpg": "/foodyummy1/static/media/hero.160610bbf5f99adb33b3.jpg",
+    "static/media/product3.jpg": "/foodyummy1/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/foodyummy1/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/avatar3.jpg": "/foodyummy1/static/media/avatar3.5ab02501b8464e85dc7a.jpg",
+    "static/media/avatar2.jpg": "/foodyummy1/static/media/avatar2.9233915b409b13e25476.jpg",
+    "static/media/HeroDesign.png": "/foodyummy1/static/media/HeroDesign.70d4607cd228844ffa52.png",
+    "index.html": "/foodyummy1/index.html",
+    "main.d5476793.css.map": "/foodyummy1/static/css/main.d5476793.css.map",
+    "main.f2cb72b1.js.map": "/foodyummy1/static/js/main.f2cb72b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5476793.css",
+    "static/js/main.f2cb72b1.js"
+  ]
+}
